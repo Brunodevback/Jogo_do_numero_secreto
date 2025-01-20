@@ -70,3 +70,4 @@ function reiniciarjogo() {
     textoInicial();
     document.getElementById ('reiniciar').setAttribute('disabled', true)
 }
+//mudança teste.
